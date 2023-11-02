@@ -27,4 +27,14 @@
         android:name="com.example.thirdtutorial.ui.pieChart.piechart"
         android:label="Pie Chart"
         tools:layout="@layout/activity_piechart" />
+    <fragment
+        android:id="@+id/nav_storage"
+        android:name="com.example.thirdtutorial.ui.Storage.storage"
+        android:label="Pie Chart"
+        tools:layout="@layout/storage" />
+    <fragment
+        android:id="@+id/nav_jason_parsing"
+        android:name="com.example.thirdtutorial.ui.jasonParsing.JasonParsing"
+        android:label="Pie Chart"
+        tools:layout="@layout/storage" />
 </navigation>
